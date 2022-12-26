@@ -1,6 +1,6 @@
 import time
 input_text=input("type: ")
-`
+
 
 chars={
 '1':list('@#$%&!"\':;?='),
